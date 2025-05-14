@@ -4,3 +4,4 @@ youtube-transcript-api
 yt-dlp
 python-dotenv
 toml
+googletrans==4.0.0-rc1
